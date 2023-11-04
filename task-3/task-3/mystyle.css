@@ -1,0 +1,64 @@
+.navbar_section{
+	height: 1210px;
+	width: auto;
+	background: white;
+	box-shadow: 0px 0px 3px 4px black;
+	border-radius: 20px;
+
+}
+
+#menu_name{
+	font-size: 20px;
+	color: black;
+	margin-left: 15px;
+}
+#input_box{
+	border-radius: 5PX;
+	width: 400px;
+	padding-left: 35px;
+}
+.search_icon{
+	position: absolute;
+	top: 152px;
+	left: 90px;
+	border: none;
+	background: none;
+}
+.menu_button{
+	font-size: 15px;
+	color: black;
+	font-weight: bold;
+}
+
+.i_button{
+	color: black;
+}
+
+.second{
+background:  #b6d5d3;
+height:1006px;
+border-radius: 20px 20px 15px 15px ;
+}
+.card{
+	border-radius: 15px;
+}
+.card-img-top
+{
+	height: 150PX;
+	width: 100%;
+	border-radius: 15px 15px 0px 0px ;
+}
+.bottom_box{
+	border-radius: 15px 15px 15px 15px;
+
+}
+
+.prize{
+	margin-left: 300px;
+}
+.para{
+	color: black;
+}
+.carousel_img{
+	height: 250px !important;
+}
